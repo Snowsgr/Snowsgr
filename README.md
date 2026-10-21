@@ -2,13 +2,13 @@
 
 <p align="center">
   <strong>Networks, business software & IT systems.</strong><br>
-  Building and supporting technology for hotels and businesses in Greece.
+  Building and supporting technology for hotels and businesses in Greece.<br>
+  Networks · IT support · App development · Websites · Game dev<br>
+  Based in Greece 🇬🇷
 </p>
 
 <p align="center">
-  <a href="https://github.com/Snowsgr">GitHub</a> ·
-  <a href="https://www.computerland.gr">Computerland</a> ·
-  <a href="mailto:Tassos.prokopiou@gmail.com">Get in touch</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&width=560&lines=MikroTik+%2F+RouterOS+networks;IT+support+for+hotels+%26+businesses;Python+%2F+Flask+business+apps;Unreal+Engine+5+game+dev;AI-powered+workflow;Prompt+engineering" alt="Typing SVG" />
 </p>
 
 ---
@@ -21,10 +21,34 @@ I'm building **G-Series**, a collection of business applications, alongside webs
 
 **Languages:** Greek · English
 
+---
+
+### Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,flask,postgres,sqlite,docker,html,css,js,git,github,linux,windows,vscode,unreal" alt="Tech stack" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge" alt="MS SQL Server" />
+  <img src="https://img.shields.io/badge/MikroTik%20RouterOS-293239?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" />
+  <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white" alt="Hetzner" />
+  <img src="https://img.shields.io/badge/Yeastar-0072CE?style=for-the-badge" alt="Yeastar" />
+  <img src="https://img.shields.io/badge/NEC-1414A0?style=for-the-badge" alt="NEC" />
+  <img src="https://img.shields.io/badge/LibreNMS-6C3483?style=for-the-badge" alt="LibreNMS" />
+  <img src="https://img.shields.io/badge/IACBOX-00839A?style=for-the-badge" alt="IACBOX" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine 5" />
+</p>
+
+---
+
 ## Currently building
 
-- **GHub** — a central administration panel for G-Series customers, subscriptions and software licenses.
-- **GLink** — car rental management with e-invoicing and cloud POS integration.
+- **GHub**: a central administration panel for G-Series customers, subscriptions and software licenses.
+- **GLink**: car rental management with e-invoicing and cloud POS integration.
 
 ## What I work on
 
@@ -112,7 +136,7 @@ I also build environments and explore game development in **Unreal Engine 5**, w
 </details>
 
 <details>
-<summary><strong>Στα ελληνικά</strong></summary>
+<summary><strong>Στα ελληνικά/🇬🇷</strong></summary>
 <br>
 
 Είμαι ο **Τάσος** και εργάζομαι στην **Computerland**, στην Ελλάδα. Ασχολούμαι με δίκτυα και IT υποστήριξη για ξενοδοχεία και επιχειρήσεις, τηλεφωνικά κέντρα, διασυνδέσεις ERP, ιστοσελίδες και ανάπτυξη εφαρμογών σε **Python / Flask**.

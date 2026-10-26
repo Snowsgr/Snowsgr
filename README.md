@@ -84,6 +84,8 @@ I've designed and built websites for hotels, villas and local businesses, as wel
 - **Business websites and landing pages** that showcase services and make it easy to get in touch.
 - **Multilingual, mobile-friendly layouts** for visitors browsing on phones, tablets and desktops.
 
+**Featured website:** [Computerland — computerland.gr](https://computerland.gr/)
+
 ## G-Series
 
 Business applications built around everyday operational needs.
@@ -125,9 +127,15 @@ I use **Claude, ChatGPT and Gemini** across development, troubleshooting and doc
 - **Research & documentation:** vendor and API research, technical guides and proposals.
 - **Local models:** experimenting with LLMs on my own hardware.
 
-## Beyond business software
+## Unreal Engine showcase
 
 I also build environments and explore game development in **Unreal Engine 5**, with a focus on level design, Megascans assets and Git LFS workflows.
+
+### Medieval castle environment
+
+A personal environment project in Unreal Engine 5, featuring a stone castle, a bridge approach and a mountainous backdrop.
+
+![Medieval castle environment in Unreal Engine 5](unreal-castle.png)
 
 <details>
 <summary><strong>A little GitHub activity</strong></summary>

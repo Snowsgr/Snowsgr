@@ -17,7 +17,7 @@
 
 I'm Tasos, based in Greece and working at **Computerland**. My work spans the infrastructure businesses rely on and the software they use every day: hotel WiFi, network security, IT support, ERP integrations and custom applications.
 
-I'm building **G-Series**, a collection of business applications, alongside websites for hotels and local businesses. Outside work, I explore level design and game development in **Unreal Engine 5**.
+I'm building **G-Series**, a collection of business applications. I've also designed and built websites for hotels, villas and local businesses. Outside work, I explore level design and game development in **Unreal Engine 5**.
 
 **Languages:** Greek · English
 
@@ -69,13 +69,20 @@ I'm building **G-Series**, a collection of business applications, alongside webs
 - **Yeastar / NEC** telephony and ERP caller identification through CTI integrations.
 - POS and ERP installation, integration and support.
 
-### Software & websites
+### Software development
 
 - **Python / Flask** applications connected to **Pylon** and **Microsoft SQL Server**.
 - E-invoicing integrations through a certified provider, including myDATA transmission and POS card payments.
 - Automation for renewals, contract expiry alerts and email monitoring.
 - PDF and Excel sales reports from POS data, with VAT breakdowns.
-- Multilingual, mobile-friendly websites for hotels, villas and businesses.
+
+### Websites I've built
+
+I've designed and built websites for hotels, villas and local businesses, as well as landing pages and personal portfolios.
+
+- **Hospitality websites** that present properties, accommodation and guest information.
+- **Business websites and landing pages** that showcase services and make it easy to get in touch.
+- **Multilingual, mobile-friendly layouts** for visitors browsing on phones, tablets and desktops.
 
 ## G-Series
 
@@ -142,6 +149,8 @@ I also build environments and explore game development in **Unreal Engine 5**, w
 Είμαι ο **Τάσος** και εργάζομαι στην **Computerland**, στην Ελλάδα. Ασχολούμαι με δίκτυα και IT υποστήριξη για ξενοδοχεία και επιχειρήσεις, τηλεφωνικά κέντρα, διασυνδέσεις ERP, ιστοσελίδες και ανάπτυξη εφαρμογών σε **Python / Flask**.
 
 Αναπτύσσω τη σειρά **G-Series**, με εφαρμογές για τις καθημερινές ανάγκες των επιχειρήσεων και κεντρικό διαχειριστικό το **GHub**. Χρησιμοποιώ εργαλεία AI στην ανάπτυξη, τη διάγνωση προβλημάτων και την τεκμηρίωση, με προδιαγραφές, ελέγχους και σταδιακές αλλαγές.
+
+Έχω επίσης σχεδιάσει και δημιουργήσει ιστοσελίδες για ξενοδοχεία, βίλες και επιχειρήσεις, καθώς και landing pages και προσωπικά portfolios, με πολύγλωσσο περιεχόμενο και προσαρμογή σε κινητά, tablets και υπολογιστές.
 
 Στον ελεύθερο χρόνο μου ασχολούμαι με σχεδιασμό επιπέδων και ανάπτυξη παιχνιδιών στο **Unreal Engine 5**.
 
